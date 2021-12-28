@@ -1,0 +1,10 @@
+# File produced by SOL Viewer by Scan Dimension (https://scandimension.com/)
+
+newmtl 01___default
+Kd 0.80000001 0.80000001 0.80000001
+Ka 0.5 0.5 0.5
+Ks 0.1 0.1 0.1
+Ns 4
+illum 2
+map_Kd sample12.png
+
